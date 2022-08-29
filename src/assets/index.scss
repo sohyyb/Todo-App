@@ -55,6 +55,8 @@
           flex: 1;
           text-align: left;
           cursor: pointer;
+          overflow-wrap: break-word;
+          max-width: 350px;
         }
         .done {
           text-decoration: line-through;
